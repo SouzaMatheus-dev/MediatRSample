@@ -1,4 +1,4 @@
-# Aprendendo Mediator Pattern
+#Mediator Pattern
 
 Este projeto tem como objetivo demonstrar a implementação e o uso do padrão Mediator em uma aplicação .NET Core. O padrão Mediator é utilizado para reduzir as dependências diretas entre objetos, promovendo um acoplamento mais fraco e uma melhor organização do código. Este projeto é ideal para desenvolvedores que desejam aprender sobre padrões de design de software e sua aplicação prática.
 
